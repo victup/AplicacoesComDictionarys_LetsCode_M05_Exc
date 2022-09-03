@@ -21,4 +21,3 @@ Escreva uma linha de comando com os operadores descritos na lista e clique em tr
 Sempre que quiser fazer uma nova tradução basta escrever o novo comando e clicar em traduzir.
 
 ![image](https://user-images.githubusercontent.com/38474570/187744766-fdcd98f6-d242-465a-917b-81fd0b1016e5.png)
-
